@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+playwright
+pandas
+openai
+python-dotenv
+rich
+markdown
+tqdm
+fake-useragent
+lxml
